@@ -8,6 +8,25 @@
 [![Course](https://img.shields.io/badge/Course-Cyber%20Security%20Essentials-orange?style=flat-square)]()
 [![Module](https://img.shields.io/badge/Module-8-red?style=flat-square)]()
 
+## Contents
+
+- [Academic Context](#academic-context)
+- [Lab Overview](#lab-overview)
+- [Learning Objectives](#learning-objectives)
+- [Investigation Phases](#investigation-phases)
+- [Investigation Workflow](#investigation-workflow)
+- [Incident Response Framework Application](#incident-response-framework-application)
+- [Key Concepts and Learning Outcomes](#key-concepts--learning-outcomes)
+- [Practical Skills Demonstrated](#practical-skills-demonstrated)
+- [Real-World Applications](#real-world-applications)
+- [Frameworks and Standards Applied](#frameworks--standards-applied)
+- [Legal and Ethical Considerations](#legal--ethical-considerations)
+- [Additional Resources](#additional-resources)
+- [Lab Completion Summary](#lab-completion-summary)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 ## 🎓 Academic Context
 
 **Institution:** Howest University of Applied Sciences (Belgium)  
@@ -784,7 +803,7 @@ If this were a real incident involving personal data:
 
 **Muhammad Izaz Haider**  
 Cybersecurity Student @ Howest University of Applied Sciences  
-Junior DevSecOps & Ai Secuirty Engineer 
+Junior DevSecOps & Ai Security Engineer 
 Focus: Penetration Testing · OSINT · DevSecOps
 
 
